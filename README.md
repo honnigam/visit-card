@@ -1,4 +1,4 @@
-<h1 align="center"> Visit card </h1>
+<h1 align="center"> Visit card mobile and web</h1>
 
 <p align="center">
 this is a cartão de visita para meu portfólio e mostrando minha capacidade</p>
